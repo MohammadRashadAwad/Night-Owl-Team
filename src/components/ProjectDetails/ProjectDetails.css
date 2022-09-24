@@ -1,0 +1,17 @@
+.projectDeImg{
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius:5px ;
+}
+.projectDeTitle{
+    font-family: "Raleway",sans-serif;
+    font-size: 2rem;
+    color: #3b82f6;
+    font-weight: 700;
+
+}
+.projectDeDesc{
+    color: #999;
+    line-height: 1.7;
+    max-width: 100%;
+}

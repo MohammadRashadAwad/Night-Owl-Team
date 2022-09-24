@@ -1,0 +1,22 @@
+.videoDesc{
+    line-height: 1.7;
+    box-shadow: 0 0 5px #a855f7;
+    border-radius: 5px;
+    padding: 20px 15px;
+    color: #3b82f6;
+    font-family: "Raleway" ,sans-serif;
+    font-weight: 600;
+
+   
+}
+.video{
+    background-image: linear-gradient(to right,  #06b6d4 ,#3b82f6);
+    box-shadow: 0 13px 10px -5px;
+    border-radius: 5px;
+
+}
+.videoIcone{
+    font-size: 45px;
+    color: #fff;
+    cursor: pointer;
+}

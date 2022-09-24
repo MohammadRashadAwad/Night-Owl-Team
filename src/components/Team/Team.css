@@ -1,0 +1,26 @@
+.teamContainer{
+    background-image: linear-gradient(to right,  #6366f1 ,#a855f7,#ec4899);
+    overflow: hidden;
+
+}
+.imgTeam{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 20px auto;
+}
+.nameTeam{
+    color: #fff;
+    font-family: "Raleway",sans-serif;
+    font-weight: 600;
+}
+.teamDesc{
+    color: #fff;
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 20px 15px;
+    font-family: "Raleway",sans-serif;
+}
+.skills{
+    display: block;
+}

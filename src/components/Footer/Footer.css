@@ -1,0 +1,39 @@
+.footer{
+    margin-top: 1.3rem;
+    background-image: linear-gradient(to right,  #06b6d4 ,#3b82f6);
+    padding: 2rem 0rem;
+
+}
+.footerTitle{
+    color: #fff;
+    font-family: "Raleway",sans-serif;
+    font-size: 2rem;
+
+
+
+}
+
+.socialIcone{
+display: flex;
+justify-content: center;
+gap: 10px;
+}
+.socialIcone .icone{
+    font-size: 1.8rem;
+    color: #fff;
+
+}
+.socialIcone .icone:hover{
+    transform: translateY(-2px);
+}
+.address{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.address .icone{
+    font-size: 1.3rem;
+    font-family: "Raleway",sans-serif;
+    color: #fff;
+    text-decoration: none;
+}

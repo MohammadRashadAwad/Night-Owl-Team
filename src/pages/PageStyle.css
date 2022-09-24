@@ -1,0 +1,42 @@
+.TopPageMainContainer{
+    /* background-image: linear-gradient(to right, #06b6d4 ,#3b82f6); */
+    background-image: url('../asset/image/bannerss.jpg');
+    min-height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+
+}
+.overLayPage{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0,0.5);
+}
+.TopPageTitleContainer{
+    margin-top: 8rem;
+}
+.topPageTitle{
+    font-family: 'Montserrat',sans-serif;
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* About page */
+.whoTitle{
+    font-size: 40px;
+    color: #3b82f6;
+    font-family: "Raleway",sans-serif;
+    font-weight: 700;
+}
+.whoDesc{
+    font-size: 1.5rem;
+    color: #999;
+    max-width: 100%;
+}

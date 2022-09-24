@@ -1,0 +1,42 @@
+
+.topFixedBanner{
+    background-image:url('../image/bannerss.jpg') ;
+    min-height: 550px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.topBannerOverlay{
+    position: absolute;
+     width:100%;
+    min-height: 550px;
+    background-color: rgb(0, 0, 0,0.5);
+}
+.topContent{
+   padding-top:10em ;
+}
+.topTitle{
+    font-family:"Montserrat",sans-serif;
+    font-weight: 700;
+    color:#ffffff;
+    font-size: 48px;
+}
+.topSubTitle{
+    font-family: "Raleway",sans-serif;
+    font-weight: 600;
+    color:#ffffff;
+    font-size: 22px;
+
+
+}
+.btnaa{
+    background-image: linear-gradient(to right,  #06b6d4 ,#3b82f6);
+    padding: 10px 15px;
+    color: #fff;
+    font-family: "Raleway",sans-serif;
+    border: none;
+    border-radius:5px ;
+
+}

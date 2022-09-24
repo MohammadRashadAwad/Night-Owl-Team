@@ -1,0 +1,34 @@
+
+.cardServices{
+    padding:60px 30px;
+    box-shadow: 0 0 5px #06b6d4;
+    border-radius: 5px;
+   
+
+}
+
+.cardServices:hover{
+    
+    box-shadow: 1px 1px 16px #06b6d4;
+   
+}
+.servicesIcone{
+    width:150px;
+    height:150px;
+    border-radius: 5px;
+}
+.cardServicesName{
+    font-family: "Raleway" ,sans-serif;
+    margin-top: 15px;
+    color: #3b82f6;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.cardServicesDesc{
+    font-family: "Raleway" ,sans-serif;
+    margin-top: 15px;
+    color: #505050;
+    font-size: 15px;
+    font-weight: 400;
+}
